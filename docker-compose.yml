@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  movies-api:
+    image: movies-api
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3000

@@ -1,0 +1,51 @@
+Caracteristicas>
+Minimalistas
+Template Engines
+Routing 
+Middkewares
+Plugins (como middlewares)
+
+Casi todo express es un middlewares;
+
+Ananomia de Api Rest. 
+Estilo de arquictura para construir web services. 
+REST:
+GET PUT PATCH POST DELETE
+
+api movies
+LIST
+REMPLACE
+N/A
+CREATE
+DELETE
+
+api Movies id
+RETRIEVE
+REMPLACE/CREATE
+UPDATE
+N/A
+DELETE
+
+Creaci[on de un servidor NODE JS en EXPRESS:
+1. Primero se establece la carpeta en donde se creara el proyecto.
+2. Dentro se crea el package.json para ello se usa el comando npm init -y / si ha todo
+
+Dependencias:
+npm i express dotenv
+
+dependencias de desarrollo: Son dependencias que solo se manejan en desarrollo, 
+npm i -D nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier // 
+
+ npx mrm lint-staged // Formateo automatico cada vez que se hace commit, se instala un hock, lint stage modifica el pakage: cada vez que haces commit al proyecto actualiza
+
+
+ install para ejecuci[on de variables de entorno
+ npm install -g win-node-env
+ npm install --save-dev cross-env
+
+
+ Express:
+API  RESFULL
+REST ESTILO DE ARQUICTURA PARA CONTRUIR WEB services
+ROY FILDELIN
+
