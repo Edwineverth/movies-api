@@ -49,3 +49,10 @@ API  RESFULL
 REST ESTILO DE ARQUICTURA PARA CONTRUIR WEB services
 ROY FILDELIN
 
+
+JOI Y BOOM ****** // Tecnologias del ecosistema de API JS
+JOI object schema validation
+boom manejo de errores 
+
+
+
